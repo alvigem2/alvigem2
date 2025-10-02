@@ -48,8 +48,10 @@ Proyecto académico desarrollado en **C# y SQL Server**.
 🔹 Funcionalidades: reservas, check-in/check-out, gestión de habitaciones y ventas.  
 🔹 Arquitectura por capas (Presentación, Negocio, Datos)  
 📷 Capturas:  
-![Hotel Madero 1](ruta/a/tu/imagen1.png)  
-![Hotel Madero 2](ruta/a/tu/imagen2.png)
+![Hotel Madero 1](assets/CasaDaza1.jpg)  
+![Hotel Madero 2](assets/CasaDaza2.jpg)
+![Hotel Madero 2](assets/CasaDaza3.jpg)
+![Hotel Madero 2](assets/CasaDaza4.jpg)
 
 ---
 
