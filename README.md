@@ -48,10 +48,10 @@ Proyecto académico desarrollado en **C# y SQL Server**.
 🔹 Funcionalidades: reservas, check-in/check-out, gestión de habitaciones y ventas.  
 🔹 Arquitectura por capas (Presentación, Negocio, Datos)  
 📷 Capturas:  
-![Hotel Madero 1](assets/CasaDaza1.jpg)  
-![Hotel Madero 2](assets/CasaDaza2.jpg)
-![Hotel Madero 2](assets/CasaDaza3.jpg)
-![Hotel Madero 2](assets/CasaDaza4.jpg)
+![Hotel Madero 1](assets/HotelMadero1.jpg)  
+![Hotel Madero 2](assets/HotelMadero2.jpg)
+![Hotel Madero 3](assets/HotelMadero3.jpg)
+![Hotel Madero 4](assets/HotelMadero4.jpg)
 
 ---
 
@@ -59,8 +59,10 @@ Proyecto académico desarrollado en **C# y SQL Server**.
 Desarrollado en **C# y SQL Server**.  
 🔹 Funcionalidades: registro de cuentas, reportes contables, generación automática de Libro Diario.  
 📷 Capturas:  
-![ContaBol 1](ruta/a/tu/imagen1.png)  
-![ContaBol 2](ruta/a/tu/imagen2.png)
+![ContaBol 1](assets/Contabol.jpg)  
+![ContaBol 2](assets/Contabo2.jpg)
+![ContaBol 3](assets/Contabo3.jpg)  
+![ContaBol 4](assets/Contabo4.jpg)
 
 ---
 
@@ -69,8 +71,11 @@ Frontend hecho con **HTML, CSS y JavaScript**. Backend y base de datos en **Supa
 🔹 Gestión de productos, banners y ventas desde un panel administrativo.  
 🔹 Interfaz responsiva y funcional.  
 📷 Capturas:  
-![Tienda 1](ruta/a/tu/imagen1.png)  
-![Tienda 2](ruta/a/tu/imagen2.png)
+![Tienda 1](assets/CasaDaza1.jpg)  
+![Tienda 2](assets/CasaDaza2.jpg)
+![Tienda 3](assets/CasaDaza3.jpg)  
+![Tienda 4](assets/CasaDaza4.jpg)  
+![Tienda 5](assets/CasaDaza5.jpg)  
 
 ---
 
