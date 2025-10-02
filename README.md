@@ -59,10 +59,10 @@ Proyecto académico desarrollado en **C# y SQL Server**.
 Desarrollado en **C# y SQL Server**.  
 🔹 Funcionalidades: registro de cuentas, reportes contables, generación automática de Libro Diario.  
 📷 Capturas:  
-![ContaBol 1](assets/Contabol.jpg)  
-![ContaBol 2](assets/Contabo2.jpg)
-![ContaBol 3](assets/Contabo3.jpg)  
-![ContaBol 4](assets/Contabo4.jpg)
+![ContaBol 1](assets/Contabol1.jpg)  
+![ContaBol 2](assets/Contabol2.jpg)
+![ContaBol 3](assets/Contabol3.jpg)  
+![ContaBol 4](assets/Contabol4.jpg)
 
 ---
 
