@@ -8,7 +8,7 @@
 
 ## 👨‍💻 Sobre mí  
 - 🔭 Actualmente trabajando en proyectos académicos y personales  
-- 🌱 Aprendiendo más sobre **.NET, C#, SQL Server, PostgreSQL y Supabase**  
+- 🌱 Aprendiendo más sobre **.NET, C#, SQL Server, PostgreSQL, Supabase, Laravel y React**  
 - ⚡ Me interesa el desarrollo **Full Stack**, la gestión de bases de datos y las metodologías ágiles  
 - 🤝 Participación en hackathons y proyectos colaborativos  
 
@@ -29,6 +29,8 @@
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) 
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Razor Pages](https://img.shields.io/badge/Razor-5C2D91?style=for-the-badge&logo=razorpay&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ### Bases de Datos  
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) 
@@ -87,7 +89,7 @@ Frontend hecho con **HTML, CSS y JavaScript**. Backend y base de datos en **Supa
 
 ---
 
-📫 Contacto: alvaro2002lazarte@gmail.com  
-📱 Teléfono: 72553154
+📫 **Correo:** alvaro2002lazarte@gmail.com  
+📱 **Teléfono:** 72553154  
 
 ---
